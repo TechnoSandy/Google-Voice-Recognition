@@ -2,8 +2,12 @@
 This project takes the voice input and search it in google search engine . 
 The code can be easily used with any website with minor changes . 
 The project is based on the google Voice-Recognition API . 
-+It will work with Chrome 
--Not tested with other Browser 
+
+
+```diff
++ It will work with Chrome 
+- Not tested with other Browser 
+```
 
 ## Git Page Demo
 https://technosandy.github.io/Google-Voice-Recognition/
